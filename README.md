@@ -51,7 +51,7 @@
   - [lighthouse](https://github.com/SERMSN/ansible-lighthouse)
   - [vector](https://github.com/SERMSN/ansible-vector)
   - [nginx](https://github.com/SERMSN/ansible-nginx) 
-9. [requirements.yaml](https://github.com/SERMSN/ansible-playbook/requirements.yaml)
-10. [playbook](https://github.com/SERMSN/ansible-playbook/site.yaml)
+9. [requirements.yaml](https://github.com/SERMSN/ansible-playbook/blob/master/requirements.yml)
+10. [playbook](https://github.com/SERMSN/ansible-playbook/blob/master/site.yaml)
 11. Ответ в пункте 8-10
 
