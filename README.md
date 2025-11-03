@@ -40,8 +40,8 @@
 **Решение**
 
 1. [скриншот 1](images/z1.png)
-2. [скриншот 2](images/z1.png)
-3. [скриншот 3](images/z1.png)
+2. [скриншот 2](images/z2.png)
+3. [скриншот 3](images/z3.png)
 4. check
 5. check
 6. check
